@@ -11,7 +11,7 @@ jsproxy_config({
   node_map: {
     'defalut': {
       label: '第1通道',
-      lines: {
+      lines: {crimson-firefly-1957.dfb1.workers.dev
         '111.111.workers.dev': 1,
       }
     },
@@ -19,7 +19,7 @@ jsproxy_config({
      
     'defalut1': {
       label: '第2通道',
-      lines: {
+      lines: {wispy-fire-4be0.dfb1.workers.dev
         '222.222.workers.dev': 1,
       }
     },
